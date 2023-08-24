@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d75d50a-8809-4f44-9cfb-d84ed84e064b" name="Changes" comment="" />
+    <list default="true" id="8d75d50a-8809-4f44-9cfb-d84ed84e064b" name="Changes" comment="feat: create ToDoListTest Class">
+      <change beforePath="$PROJECT_DIR$/src/todolistproject/ToDoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/todolistproject/ToDoList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/todolistproject/ToDoListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/todolistproject/ToDoListTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,6 +31,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
@@ -31,6 +48,48 @@
       <option name="presentableId" value="Default" />
       <updated>1692887939931</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: add Task and ToDoLIst Classes in ToDoList Project">
+      <option name="closed" value="true" />
+      <created>1692888403703</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692888403703</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: create Test Class">
+      <option name="closed" value="true" />
+      <created>1692890280050</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692890280050</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: create ToDoListTest Class">
+      <option name="closed" value="true" />
+      <created>1692890971791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692890971791</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add Task and ToDoLIst Classes in ToDoList Project" />
+    <MESSAGE value="feat: create Test Class" />
+    <MESSAGE value="feat: create ToDoListTest Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: create ToDoListTest Class" />
   </component>
 </project>
