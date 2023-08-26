@@ -9,5 +9,22 @@ public class ToDoList {
     public ToDoList() {
         tasks = new ArrayList<>();
     }
+
+    public void addTask(Task task) {
+        tasks.add(task);
+    }
+
+    public void markTaskAsDone(int index) {
+        if (index >= 0 && index < tasks.size()) {
+            tasks.get(index).markAsDone();
+        }
+    }
+
+    public void displayTasks() {
+        System.out.println("To-Do List:");
+        for (int i = 0; i < tasks.size(); i++) {
+            System.out.println((i + 1) + ". " + tasks.get(i));
+        }
+    }
 }
 
